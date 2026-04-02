@@ -16,7 +16,9 @@ Open a comment or reply box on LinkedIn or X.
 Press your hotkey in the empty box.
 Function will generate a reply based on the post.
 
-[Watch reply-to-post demo](./assets/function-reply-post.mp4)
+[![Reply to post](./assets/function-reply-post.png)](https://drive.google.com/file/d/1ubzCmo5tIEomnMSOXkIu8Mo1Lj4Rr_B6/view?usp=drive_link)
+
+_Click image to view demo._
 
 ### 2. Write a post
 
@@ -24,7 +26,9 @@ Open **Start a post** or the post composer.
 Press your hotkey in the empty box.
 Function will generate a draft close to what you may want to write.
 
-[Watch write-a-post demo](./assets/function-write-post.mp4)
+[![Write a post](./assets/function-new-post.png)](https://drive.google.com/file/d/1RavRYuV5uxSm_fo1Ee4peb4HmiyB_PzD/view?usp=drive_link)
+
+_Click image to view demo._
 
 ### 3. Use voice instructions
 
