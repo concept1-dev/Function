@@ -1,20 +1,12 @@
 # Function
 
-Function helps you create better writing directly inside the text box.
-
-It turns rough thoughts into platform-ready content in any text box, instantly.
+Function is an AI writing assistant that works directly inside the text box you're already using.
 
 ## Quick Start
 
 Best first use: open LinkedIn, X, or Reddit, write 2 to 3 rough lines, then trigger Function.
 
 Add screenshots or demo images to [assets](./assets) and link them here as the project grows.
-
-### Start Here
-
-**What Function does**
-
-Function helps you draft, rewrite, and respond faster without switching tabs or opening a separate writing tool.
 
 ## Common Ways to Use Function
 
@@ -64,21 +56,6 @@ Use "your hotkey" throughout this guide, since every user may set a different ho
 - Voice instructions work best when you give one clear instruction at a time.
 - If the output is close but not perfect, make a light edit or try again with a clearer prompt.
 
-## Assets
-
-Store screenshots, demo images, or product visuals in [assets](./assets).
-
-Suggested filenames:
-
-- `assets/reply-to-post.png`
-- `assets/write-a-post.png`
-- `assets/voice-instructions.png`
-
-When you add them, you can link or embed them from this README with paths like:
-
-- `[Reply to post demo](./assets/reply-to-post.png)`
-- `[Write a post demo](./assets/write-a-post.png)`
-- `[Voice instructions demo](./assets/voice-instructions.png)`
 
 ## Quick Troubleshooting
 
