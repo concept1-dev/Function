@@ -2,7 +2,7 @@
 
 # Function: User Guide
 
-Function is an AI writing assistant that works directly inside the text box you're already using.
+Function is a writing assistant that works directly inside the text box you're already using.
 
 ## Quick Start 🚀
 
