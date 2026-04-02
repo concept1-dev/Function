@@ -8,6 +8,8 @@ Function is an AI writing assistant that works directly inside the text box you'
 
 Best first use: open LinkedIn, X, or Reddit, write 2 to 3 rough lines, then trigger Function, it helps you create better writing directly inside the text box.
 
+Download the latest build from the [Releases](https://github.com/concept1-dev/Function/releases) page.
+
 ## Common Ways to Use Function ✨
 
 ### 1. Reply to a post 💬
