@@ -1,39 +1,38 @@
-# Function
+![Function banner](./assets/function-banner.png)
+
+# Function: User Guide
 
 Function is an AI writing assistant that works directly inside the text box you're already using.
 
 ## Quick Start
 
-Best first use: open LinkedIn, X, or Reddit, write 2 to 3 rough lines, then trigger Function.
-
-Add screenshots or demo images to [assets](./assets) and link them here as the project grows.
+Best first use: open LinkedIn, X, or Reddit, write 2 to 3 rough lines, then trigger Function, it helps you create better writing directly inside the text box.
 
 ## Common Ways to Use Function
 
 ### 1. Reply to a post
 
 Open a comment or reply box on LinkedIn or X.
-
 Press your hotkey in the empty box.
-
 Function will generate a reply based on the post.
+
+[Watch reply-to-post demo](./assets/function-reply-post.mp4)
 
 ### 2. Write a post
 
 Open **Start a post** or the post composer.
-
 Press your hotkey in the empty box.
-
 Function will generate a draft close to what you may want to write.
+
+[Watch write-a-post demo](./assets/function-write-post.mp4)
 
 ### 3. Use voice instructions
 
 Hold your hotkey and speak naturally.
 
 Examples:
-
-- "Reply to him in a funny tone."
-- "Write a post on today's stock market update."
+- "Reply in a funny way."
+- "Write a post about this idea in a professional tone."
 
 Use "your hotkey" throughout this guide, since every user may set a different hotkey.
 
@@ -48,13 +47,6 @@ Use "your hotkey" throughout this guide, since every user may set a different ho
 - Writing fresh emails in Gmail
 - Using it in WhatsApp
 - Using it in almost any text box where you type
-
-## Tips for Best Results
-
-- Start with a rough thought, not a perfect draft.
-- If you want a specific style, say it clearly.
-- Voice instructions work best when you give one clear instruction at a time.
-- If the output is close but not perfect, make a light edit or try again with a clearer prompt.
 
 
 ## Quick Troubleshooting
