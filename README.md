@@ -18,7 +18,7 @@ Open a comment or reply box on LinkedIn or X.
 Press your hotkey in the empty box.
 Function will generate a reply based on the post.
 
-[![Reply to post](./assets/function-reply-post.png)](https://drive.google.com/file/d/1ubzCmo5tIEomnMSOXkIu8Mo1Lj4Rr_B6/view?usp=drive_link)
+[![Reply to post](./assets/function-reply-post1.png)](https://drive.google.com/file/d/1ubzCmo5tIEomnMSOXkIu8Mo1Lj4Rr_B6/view?usp=drive_link)
 
 _Click image to view demo 🎥_
 
@@ -28,7 +28,7 @@ Open **Start a post** or the post composer.
 Press your hotkey in the empty box.
 Function will generate a draft close to what you may want to write.
 
-[![Write a post](./assets/function-new-post.png)](https://drive.google.com/file/d/1RavRYuV5uxSm_fo1Ee4peb4HmiyB_PzD/view?usp=drive_link)
+[![Write a post](./assets/function-new-post1.png)](https://drive.google.com/file/d/1RavRYuV5uxSm_fo1Ee4peb4HmiyB_PzD/view?usp=drive_link)
 
 _Click image to view demo 🎥_
 
